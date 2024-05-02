@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zappzap.robochat.csproj": {}
+    "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zapzap.robochat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zappzap.robochat.csproj": {
+    "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zapzap.robochat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zappzap.robochat.csproj",
-        "projectName": "zappzap.robochat",
-        "projectPath": "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zappzap.robochat.csproj",
+        "projectUniqueName": "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zapzap.robochat.csproj",
+        "projectName": "zapzap.robochat",
+        "projectPath": "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zapzap.robochat.csproj",
         "packagesPath": "C:\\Users\\ssfba\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\obj\\",
         "projectStyle": "PackageReference",

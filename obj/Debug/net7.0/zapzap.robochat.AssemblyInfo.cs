@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("zappzap.robochat")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("zapzap.robochat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b6e9f6acb2098c43e036cb4886dcadc4059faa2")]
-[assembly: System.Reflection.AssemblyProductAttribute("zappzap.robochat")]
-[assembly: System.Reflection.AssemblyTitleAttribute("zappzap.robochat")]
+[assembly: System.Reflection.AssemblyProductAttribute("zapzap.robochat")]
+[assembly: System.Reflection.AssemblyTitleAttribute("zapzap.robochat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

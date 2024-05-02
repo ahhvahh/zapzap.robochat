@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLXVMGCQhKT5jJ9VXBx6pMU3x+qBJc0IPI7QJ2RUXMBb7Bb9vPGF0RWBhfaoqv824Tev4ZacXXycd3yrDWbNJQ==",
+  "dgSpecHash": "xIsMcVduLNwfxM4f2Lr1mFL+ozzJ2Z3skpgMRnOCvcCSKKUq4da4E/VO5KIgG3Q4TPnAdmeE/Iyl2WFmvTXkRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ssfba\\source\\repos\\ahhvahh\\zappzap.robochat\\zappzap.robochat.csproj",
+  "projectFilePath": "C:\\Users\\ssfba\\OneDrive\\Documents\\GitHub\\zapzap.robochat\\zapzap.robochat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssfba\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
     "C:\\Users\\ssfba\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
